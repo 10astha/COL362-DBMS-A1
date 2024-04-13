@@ -1,0 +1,2 @@
+This assignment requires designing a database for course administration, focusing on tables like student, courses, student courses, course offers, professor, valid entry, and department.asks include making sure student IDs are correct, keeping track of department changes, and managing course enrollments. It's all about making a system that works smoothly for universities or colleges.
+refer to the attached pdf for more details

@@ -1,2 +1,3 @@
-This assignment requires designing a database for course administration, focusing on tables like student, courses, student courses, course offers, professor, valid entry, and department.asks include making sure student IDs are correct, keeping track of department changes, and managing course enrollments. It's all about making a system that works smoothly for universities or colleges.
-refer to the attached pdf for more details
+ Analyzing Medical Data
+ Tackled real-world medical data challenges with SQL queries, spanning operations to graph-based analyses. The dataset covers patient info, admissions, diagnoses, etc
+Refer to attached pdf for more details
